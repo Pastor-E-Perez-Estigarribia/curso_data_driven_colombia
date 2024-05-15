@@ -29,10 +29,10 @@ y computación científica.
   - Desarrollo en PETSc 
 
 ### Prof. Pastor Pérez, D.Sc - Biología Comutacional y Modelado Matemático
-- **Correo electrónico:** ejemplo@example.com
+- **Correo electrónico:** peperez.estigarribia@pol.una.py 
 - **Temas sugeridos:**
-  - Algoritmos avanzados para procesamiento de datos grandes
-  - Simulaciones computacionales de fenómenos físicos
+  - Algoritmos avanzados para procesamiento de datos 
+  - Modelado y simulaciones computacionales de fenómenos biológicas 
 
 ## Requisitos
 
